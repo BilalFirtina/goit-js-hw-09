@@ -8,4 +8,4 @@
 	</a>
 </li>
 `).join("");s.insertAdjacentHTML("beforeend",o)}l(c);new n(".gallery a",{captionDelay:250,captionsData:"alt"});
-//# sourceMappingURL=01-gallery.js.map
+//# sourceMappingURL=1-gallery.js.map
